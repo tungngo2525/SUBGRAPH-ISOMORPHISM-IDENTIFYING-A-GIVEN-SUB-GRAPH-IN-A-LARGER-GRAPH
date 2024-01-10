@@ -1,3 +1,3 @@
 Data description:
 
-facebook_combined.txt
+facebook_combined.txt - Dataset information
